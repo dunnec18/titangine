@@ -1,4 +1,4 @@
-#include "Core/Core.h"
+#include "/Users/cdunne/git_repos/titangine/Core/Source/Core.h"
 
 int main()
 {
