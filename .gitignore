@@ -9,6 +9,7 @@ Binaries/
 *.sln
 *.log
 *.code-workspace
+*.DS_Store
 Makefile
 
 # Exclude
